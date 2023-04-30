@@ -1,0 +1,5 @@
+Nel grafico originale è descritto l'andamento della sezione d'urto differenziale per un'esperienza relativa all'effetto Compton, ovvero di scattering quantistico,
+per questo vengono fittati dei punti alla funzione classica dello scattering Thompson e invece l'approssimazione di seconda quantizzazione data dalla formula di Klein-Nishina
+Il risultato dimostra dunque l'inadeguatezza dell'applicazione della meccanica classica al caso in esame.
+Il grafico è stato migliorato aumentando il carattere delle label degli assi ed aggiungendo le unità di misura.
+Inoltre è stato aggiunto il titolo e la visualizzazione dei punti sperimentali con relativa barra di errore.
